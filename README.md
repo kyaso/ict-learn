@@ -37,7 +37,7 @@
 	falls nicht, einfach mit Rechtsklick abbrechen)
   - Reihenfolge: links oben, rechts oben, rechts unten, links unten
   - Geschnittene Bilder mit labels befinden sich nun im Ordner "bilder1"
-    - Falls man keine label txt hatte, sind die Labels in den Bildnamen natürlich falsch; also nicht verwirren lassen!
+    - Falls man keine Textdatei mit Labels hatte, sind die Labels in den Bildnamen natürlich falsch; also nicht verwirren lassen!
     - Falls die Bilder für **neue Trainingsdaten** geschnitten wurden
       - nur die guten Ausschnitte kopieren
       - `recog/OFFSET/` dort einen neuen Ordner "cropped_blabla" erstellen
