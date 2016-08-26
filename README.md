@@ -62,6 +62,7 @@ Terminal im Ordner `recog` öffnen
     - Nach erstem Training kann man den Kommentar wieder entfernen
   - (*optional*) Test Ordner festlegen
   - Classify aufrufen (genaueres steht als Kommentar darüber (ganz unten in `slat_train.py`))
+  - Dann im Terminal `python slat_train.py` ausführen
 
 2. Falls man das Netz nur testen und nicht trainieren möchte
   - `recognize.py` öffnen
@@ -70,6 +71,8 @@ Terminal im Ordner `recog` öffnen
   - `net.m.load("DasNetz.tflearn")`
   - Test Ordner festlegen
   - Classify
+  - Dann im Terminal `python recognize.py` auführen
+    - Es kann auch der [Online-Decoder](https://ict-cubes.appspot.com/?slats=rmrlrrrrmmrmllrrmrlrmrrrlrrrrlmllmlllrlrlrrlrllrrrmrmrrllrrmrlmlmmrlrmrlrrrmrrllrrlrrlmmr) verwendet werden. Dazu die im Terminal ausgegebene Slatfolge kopieren und im Brower an die entsprechende Stelle in der URL des Online-Decoders kopieren.
 
 3. Tensorboard (*optional*)
   - Terminal öffen
