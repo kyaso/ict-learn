@@ -1,11 +1,11 @@
 # ICT-Learn
 
 ## Voraussetzungen
-* **Linux, Python**
-* [Tensorflow](https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html#virtualenv-installation)
-* [TFLearn](http://tflearn.org/): `pip install tflearn`
-* [Numpy](http://www.numpy.org/) (wird i.d.R. mit TFLearn mitinstalliert)
-* [OpenCV](http://docs.opencv.org/2.4/doc/tutorials/introduction/linux_install/linux_install.html#linux-installation)
+- **Linux, Python**
+- [Tensorflow](https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html#virtualenv-installation)
+- [TFLearn](http://tflearn.org/): `pip install tflearn`
+- [Numpy](http://www.numpy.org/) (wird i.d.R. mit TFLearn mitinstalliert)
+- [OpenCV](http://docs.opencv.org/2.4/doc/tutorials/introduction/linux_install/linux_install.html#linux-installation)
 - [Matplotlib](http://matplotlib.org/)
 
 - - -
@@ -15,9 +15,9 @@
 ### Lamellen ausschneiden
 
 1. In `cut_image.py`
-  * in "`seite.open...`" Name der Texdatei mit den Labels angeben
-  * Falls keine Textdatei mit den Labels vorhanden, einfach unverändert lassen
-    * man kann hinterher in der Funktion `classify()` (in `slat_train.py`) angeben, dass man keine korrekten Labels hat
+  - in "`seite.open...`" Name der Texdatei mit den Labels angeben
+  - Falls keine Textdatei mit den Labels vorhanden, einfach unverändert lassen
+    - man kann hinterher in der Funktion `classify()` (in `slat_train.py`) angeben, dass man keine korrekten Labels hat
 2. Terminal: `python main.py [Bild.jpg]`
   - Höhe: 50
   - Breite: 25
