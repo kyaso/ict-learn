@@ -1,0 +1,2 @@
+model_checkpoint_path: "dnn1_offset_bw.tfl"
+all_model_checkpoint_paths: "dnn1_offset_bw.tfl"
