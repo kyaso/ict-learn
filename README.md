@@ -26,6 +26,9 @@
     \>= **2.7**, falls mehr von der oberen Reihe sichtbar sein soll (**empfohlen**) 
 
   ![alt tag](git_images/main.png)
+  
+  ![alt tag](git_images/with_offset.png) ![alt tag](git_images/without_offset.png)  
+  *Links: Offset 2.7, Rechts Offset 2*
 
 3. Ecken auswählen
   - Einmal ins Bild klicken: Ausschnitt vergrößern
