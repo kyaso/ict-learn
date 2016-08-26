@@ -12,7 +12,7 @@
 
 ## Bedienung
 
-### Bilder schneiden
+### Lamellen ausschneiden
 
 1. In `cut_image.py`
   * in "`seite.open...`" Name der Texdatei mit den Labels angeben
