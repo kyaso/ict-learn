@@ -1,7 +1,7 @@
 # ICT-Learn
 
 ## Voraussetzungen
-* **Linux**
+* **Linux, Python**
 * [Tensorflow](https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html#virtualenv-installation)
 * TF-Learn: `pip install tflearn`
 * Numpy (wird i.d.R. mit TF-Learn mitinstalliert)
