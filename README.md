@@ -14,11 +14,11 @@
 
 ### Lamellen ausschneiden
 
-1. In `cut_image.py`
+**1.** In `cut_image.py`
   * in "`seite.open...`" Name der Texdatei mit den Labels angeben
   * Falls keine Textdatei mit den Labels vorhanden, einfach unverändert lassen
     * man kann hinterher in der Funktion `classify()` (in `slat_train.py`) angeben, dass man keine korrekten Labels hat
-2. Terminal: `python main.py [Bild.jpg]`
+**2.** Terminal: `python main.py [Bild.jpg]`
   - Höhe: 50
   - Breite: 25
   - Reihen: Immer *eins mehr* angeben. Möchte man z.B. 5 Reihen decodieren, so muss man 6 eingeben
@@ -30,7 +30,7 @@
   ![alt tag](git_images/with_offset.png) ![alt tag](git_images/without_offset.png)  
   *Links: Offset 2.7, Rechts Offset 2*
 
-3. Ecken auswählen
+**3.** Ecken auswählen
   - Einmal ins Bild klicken: Ausschnitt vergrößern
   - Nochmal klick: Ecke auswählen ODER Rechtsklick zum abbrechen
   - Falls Ausschnitt sich **nicht** vergrößert: Rechtsklick, und nochmal etwas weiter unten linksklicken (so dass man die Ecke noch sieht;
