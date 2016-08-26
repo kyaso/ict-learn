@@ -6,7 +6,7 @@
 * TF-Learn: `pip install tflearn`
 * [OpenCV](http://docs.opencv.org/2.4/doc/tutorials/introduction/linux_install/linux_install.html#linux-installation)
 * Scipy
-* Matplotlib
+- Matplotlib
 ---
 ### Bedienung
 `main.py` kann benutzt werden sowohl um neue Trainingsdaten zu schneiden, als auch zum klassifizieren/decoden eines Testbildes.
