@@ -3,8 +3,8 @@
 ## Voraussetzungen
 * **Linux, Python**
 * [Tensorflow](https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html#virtualenv-installation)
-* TF-Learn: `pip install tflearn`
-* Numpy (wird i.d.R. mit TF-Learn mitinstalliert)
+* TFLearn: `pip install tflearn`
+* Numpy (wird i.d.R. mit TFLearn mitinstalliert)
 * [OpenCV](http://docs.opencv.org/2.4/doc/tutorials/introduction/linux_install/linux_install.html#linux-installation)
 - Matplotlib
 
