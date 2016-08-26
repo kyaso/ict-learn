@@ -126,6 +126,7 @@ def decode(lmr_string):
 	
 		for a in scientists:
 			if(a in decoded):
+				print("\nResult:\n")
 				print (decoded)
 				return True
 

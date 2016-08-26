@@ -143,7 +143,7 @@ def classify_decode(dnn, images):
 
 
 		result_string = result_string + label
-
+	
 	print(result_string+"\n")
 # Da der Online-Decoder eh besser ist, brauchen wir hier keinen ;)
 '''

@@ -1,12 +1,9 @@
 from __future__ import absolute_import, division, print_function
 
 
-#import tensorflow as tf
-#import tflearn
 import cv2
 import glob
 import dnn1_bw as net
-#import dnn1 as net
 import classify
 
 X = []
@@ -42,12 +39,6 @@ def load_images(X, path, color = 1):
 	return pictures
 
 
-
-#print("Hello.\n")
-
-	
-#print (len(X))
-#print (len(Y))
 
 
 # Load model
