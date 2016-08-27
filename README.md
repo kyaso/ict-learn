@@ -71,7 +71,7 @@ Terminal im Ordner `recog` öffnen
   - Netz laden
     - z.B. `net.m.load("dnn1_offset_bw.tfl")`
   - Test Ordner festlegen
-  - Classify
+  - Classify aufrufen (genaueres steht als Kommentar darüber (ganz unten in `slat_train.py`))
   - Dann im Terminal `python recognize.py` auführen
     - Es kann auch der [Online-Decoder](https://ict-cubes.appspot.com/?slats=rmrlrrrrmmrmllrrmrlrmrrrlrrrrlmllmlllrlrlrrlrllrrrmrmrrllrrmrlmlmmrlrmrlrrrmrrllrrlrrlmmr) verwendet werden. Dazu die im Terminal ausgegebene Slatfolge kopieren und im Brower an die entsprechende Stelle in der URL des Online-Decoders kopieren.
 
