@@ -21,7 +21,7 @@
 2. Terminal: `python main.py [Bild.jpg]`
   - Höhe: 50
   - Breite: 25
-  - Reihen: Immer *eins mehr* angeben. Möchte man z.B. 5 Reihen decodieren, so muss man 6 eingeben
+  - Reihen: Immer *eine mehr* angeben. Möchte man z.B. 5 Reihen decodieren, so muss man 6 eingeben
   - Offset: 2, falls genau mittig.  
     \>= **2.7**, falls mehr von der oberen Reihe sichtbar sein soll (**empfohlen**) 
 
