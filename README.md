@@ -68,7 +68,8 @@ Terminal im Ordner `recog` öffnen
   - `recognize.py` öffnen
   - Neuronales Netz importieren
     - z.B. `import dnn1_bw.py as net`
-  - `net.m.load("DasNetz.tflearn")`
+  - Netz laden
+    - z.B. `net.m.load("dnn1_offset_bw.tfl")`
   - Test Ordner festlegen
   - Classify
   - Dann im Terminal `python recognize.py` auführen
