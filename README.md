@@ -52,7 +52,7 @@ Terminal im Ordner `recog` öffnen
 - Falls man ein **neues** Netz trainieren möchte: Python Datei für ein neuronales Netz anlegen, z.B. `dnn1_bw.py`
   - Inhalt von `dnn1_bw.py` kann als Grundstruktur übernommen weren
   - Dann entsprechend modifizieren
-  - (*optional*) Tensorboard Pfad festlegen, z.B. `tensorboard_dir='/home/kyaso/ict/dnn1_bw_logs'` (home.. anpassen an eigenen Rechner)
+  - (*optional*) [Tensorboard](https://www.tensorflow.org/versions/r0.10/how_tos/summaries_and_tensorboard/index.html) Pfad festlegen, z.B. `tensorboard_dir='/home/kyaso/ict/dnn1_bw_logs'` (home.. anpassen an eigenen Rechner)
     - Kann man auch weglassen, dann ist der Standardpfad `/tmp/tflearn_logs/`
 
 1. In `slat_train.py`
